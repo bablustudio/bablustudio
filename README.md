@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bablustudio. I'm the Head of Maker Labs at TechSoup and facilitate Public Good App House community events.
+- 👀 I’m interested in building interfaces between technical communities and civil society decision-makers. 
+- 🌱 I’m currently learning that there is strong philosophical alignment between grassroots movemement builders in civil society and DWeb Makers
+- 💞️ I’m looking to collaborate on a community event series that highlights use case of DWeb in civil society.
+- 📫 Reach me on email at billybicket@gmail.com
